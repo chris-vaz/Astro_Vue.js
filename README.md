@@ -17,3 +17,5 @@ Welcome to the "Content Sites with Astro and Vue.js" course repository! In this 
 - **Flexible Framework Integration:** Combine Astro with various JavaScript frameworks like Vue.js, React, or Svelte.
 - **Dynamic Interactivity:** Use Vue.js to add interactivity to specific parts of your site while keeping the rest static.
 
+-- Course Includes Videos and Notes
+
